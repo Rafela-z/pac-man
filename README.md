@@ -1,2 +1,3 @@
 # pac-man
-começando testes
+começando pelo começo
+
